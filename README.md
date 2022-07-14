@@ -6,3 +6,4 @@ Python
 Requirements:
 
 discord.py
+python-dotenv
